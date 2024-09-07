@@ -1,0 +1,11 @@
+S 100
+A 19
+A 20
+D 23
+A 55
+F 1
+R file_a.txt
+D 1
+F 1
+R file_b.txt
+E
